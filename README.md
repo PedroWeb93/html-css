@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://pedroweb93.github.io/html-css/ex03%20Representando%20Cores%20com%20CSS3/index.html">Executar o exercício 03</a>
+<a href="https://pedroweb93.github.io/html-css/execícios/ex03%20Representando%20Cores%20com%20CSS3/index.html">Executar o exercício 03</a>
